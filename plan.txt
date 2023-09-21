@@ -1,0 +1,7 @@
+Create npm project 
+create index , css, js file 
+install dependancies. express nodemon 
+create a express server 
+Do frontend part 
+install socket.io, setup socket.io in server.js and silent.js
+clint send message logic in client.js
